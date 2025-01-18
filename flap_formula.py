@@ -1,3 +1,5 @@
+from locale import atof
+from math import pi
 import argparse
 
 def parse_args():
@@ -7,12 +9,16 @@ def parse_args():
 def generate_flap_formula(position, total_flaps):
     """Generate the formula for a specific flap position"""
 
+    angle = (position-1)*2
+    _position = position*2
+    _flaps = (total_flaps-2)/2
+
     # The main formula components
-    part1 = f"pi-({position}*2)*pi/{total_flaps}+(({total_flaps}-2)/2)*(2*atan(tan(a/2-pi/2))+pi-({position}*2)*pi/{total_flaps}))"
-    part2 = f"cos(a-(({position}-1)*2)/{total_flaps}*pi)>=0 and sin(a-(({position}-1)*2)/{total_flaps}*pi)<sin(-2*pi+2*pi/{total_flaps})and sin(a-(({position}-1)*2)/{total_flaps}*pi)>sin(-2*pi)"
+    part1 = f"pi-{_position}*pi/{total_flaps}+{_flaps}*(2*atan(tan(a/2-pi/2))+pi-{_position}*pi/{total_flaps}))"
+    part2 = f"cos(a-{angle}/{total_flaps}*pi)>=0 and sin(a-{angle}/{total_flaps}*pi)<sin(-2*pi+2*pi/{total_flaps})and sin(a-{angle}/{total_flaps}*pi)>sin(-2*pi)"
     part3 = "-a"
-    part4 = f"sin(a-(({position}-1)*2)/{total_flaps}*pi)<=0 and cos(a-(({position}-1)*2)/{total_flaps}*pi)<=1 and cos(a-(({position}-1)*2)/{total_flaps}*pi)>=cos(-pi+2*pi/{total_flaps})"
-    part5 = f"pi-(2*{position})*pi/{total_flaps}"
+    part4 = f"sin(a-{angle}/{total_flaps}*pi)<=0 and cos(a-{angle}/{total_flaps}*pi)<=1 and cos(a-{angle}/{total_flaps}*pi)>=cos(-pi+2*pi/{total_flaps})"
+    part5 = f"pi-{_position}*pi/{total_flaps}"
 
     # Combine into final formula
     formula = f"({part1} if({part2})else({part3} if({part4})else {part5})"
