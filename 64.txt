@@ -1,0 +1,128 @@
+
+Flap 1: (pi-(1*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(1*2)*pi/64)) if(cos(a-((1-1)*2)/64*pi)>=0 and sin(a-((1-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((1-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((1-1)*2)/64*pi))<=0 and cos(a-((1-1)*2)/64*pi))<=1 and cos(a-((1-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*1)*pi/64)
+
+Flap 2: (pi-(2*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(2*2)*pi/64)) if(cos(a-((2-1)*2)/64*pi)>=0 and sin(a-((2-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((2-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((2-1)*2)/64*pi))<=0 and cos(a-((2-1)*2)/64*pi))<=1 and cos(a-((2-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*2)*pi/64)
+
+Flap 3: (pi-(3*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(3*2)*pi/64)) if(cos(a-((3-1)*2)/64*pi)>=0 and sin(a-((3-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((3-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((3-1)*2)/64*pi))<=0 and cos(a-((3-1)*2)/64*pi))<=1 and cos(a-((3-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*3)*pi/64)
+
+Flap 4: (pi-(4*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(4*2)*pi/64)) if(cos(a-((4-1)*2)/64*pi)>=0 and sin(a-((4-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((4-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((4-1)*2)/64*pi))<=0 and cos(a-((4-1)*2)/64*pi))<=1 and cos(a-((4-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*4)*pi/64)
+
+Flap 5: (pi-(5*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(5*2)*pi/64)) if(cos(a-((5-1)*2)/64*pi)>=0 and sin(a-((5-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((5-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((5-1)*2)/64*pi))<=0 and cos(a-((5-1)*2)/64*pi))<=1 and cos(a-((5-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*5)*pi/64)
+
+Flap 6: (pi-(6*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(6*2)*pi/64)) if(cos(a-((6-1)*2)/64*pi)>=0 and sin(a-((6-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((6-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((6-1)*2)/64*pi))<=0 and cos(a-((6-1)*2)/64*pi))<=1 and cos(a-((6-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*6)*pi/64)
+
+Flap 7: (pi-(7*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(7*2)*pi/64)) if(cos(a-((7-1)*2)/64*pi)>=0 and sin(a-((7-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((7-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((7-1)*2)/64*pi))<=0 and cos(a-((7-1)*2)/64*pi))<=1 and cos(a-((7-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*7)*pi/64)
+
+Flap 8: (pi-(8*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(8*2)*pi/64)) if(cos(a-((8-1)*2)/64*pi)>=0 and sin(a-((8-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((8-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((8-1)*2)/64*pi))<=0 and cos(a-((8-1)*2)/64*pi))<=1 and cos(a-((8-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*8)*pi/64)
+
+Flap 9: (pi-(9*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(9*2)*pi/64)) if(cos(a-((9-1)*2)/64*pi)>=0 and sin(a-((9-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((9-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((9-1)*2)/64*pi))<=0 and cos(a-((9-1)*2)/64*pi))<=1 and cos(a-((9-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*9)*pi/64)
+
+Flap 10: (pi-(10*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(10*2)*pi/64)) if(cos(a-((10-1)*2)/64*pi)>=0 and sin(a-((10-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((10-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((10-1)*2)/64*pi))<=0 and cos(a-((10-1)*2)/64*pi))<=1 and cos(a-((10-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*10)*pi/64)
+
+Flap 11: (pi-(11*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(11*2)*pi/64)) if(cos(a-((11-1)*2)/64*pi)>=0 and sin(a-((11-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((11-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((11-1)*2)/64*pi))<=0 and cos(a-((11-1)*2)/64*pi))<=1 and cos(a-((11-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*11)*pi/64)
+
+Flap 12: (pi-(12*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(12*2)*pi/64)) if(cos(a-((12-1)*2)/64*pi)>=0 and sin(a-((12-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((12-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((12-1)*2)/64*pi))<=0 and cos(a-((12-1)*2)/64*pi))<=1 and cos(a-((12-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*12)*pi/64)
+
+Flap 13: (pi-(13*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(13*2)*pi/64)) if(cos(a-((13-1)*2)/64*pi)>=0 and sin(a-((13-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((13-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((13-1)*2)/64*pi))<=0 and cos(a-((13-1)*2)/64*pi))<=1 and cos(a-((13-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*13)*pi/64)
+
+Flap 14: (pi-(14*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(14*2)*pi/64)) if(cos(a-((14-1)*2)/64*pi)>=0 and sin(a-((14-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((14-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((14-1)*2)/64*pi))<=0 and cos(a-((14-1)*2)/64*pi))<=1 and cos(a-((14-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*14)*pi/64)
+
+Flap 15: (pi-(15*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(15*2)*pi/64)) if(cos(a-((15-1)*2)/64*pi)>=0 and sin(a-((15-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((15-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((15-1)*2)/64*pi))<=0 and cos(a-((15-1)*2)/64*pi))<=1 and cos(a-((15-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*15)*pi/64)
+
+Flap 16: (pi-(16*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(16*2)*pi/64)) if(cos(a-((16-1)*2)/64*pi)>=0 and sin(a-((16-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((16-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((16-1)*2)/64*pi))<=0 and cos(a-((16-1)*2)/64*pi))<=1 and cos(a-((16-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*16)*pi/64)
+
+Flap 17: (pi-(17*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(17*2)*pi/64)) if(cos(a-((17-1)*2)/64*pi)>=0 and sin(a-((17-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((17-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((17-1)*2)/64*pi))<=0 and cos(a-((17-1)*2)/64*pi))<=1 and cos(a-((17-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*17)*pi/64)
+
+Flap 18: (pi-(18*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(18*2)*pi/64)) if(cos(a-((18-1)*2)/64*pi)>=0 and sin(a-((18-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((18-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((18-1)*2)/64*pi))<=0 and cos(a-((18-1)*2)/64*pi))<=1 and cos(a-((18-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*18)*pi/64)
+
+Flap 19: (pi-(19*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(19*2)*pi/64)) if(cos(a-((19-1)*2)/64*pi)>=0 and sin(a-((19-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((19-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((19-1)*2)/64*pi))<=0 and cos(a-((19-1)*2)/64*pi))<=1 and cos(a-((19-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*19)*pi/64)
+
+Flap 20: (pi-(20*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(20*2)*pi/64)) if(cos(a-((20-1)*2)/64*pi)>=0 and sin(a-((20-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((20-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((20-1)*2)/64*pi))<=0 and cos(a-((20-1)*2)/64*pi))<=1 and cos(a-((20-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*20)*pi/64)
+
+Flap 21: (pi-(21*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(21*2)*pi/64)) if(cos(a-((21-1)*2)/64*pi)>=0 and sin(a-((21-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((21-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((21-1)*2)/64*pi))<=0 and cos(a-((21-1)*2)/64*pi))<=1 and cos(a-((21-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*21)*pi/64)
+
+Flap 22: (pi-(22*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(22*2)*pi/64)) if(cos(a-((22-1)*2)/64*pi)>=0 and sin(a-((22-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((22-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((22-1)*2)/64*pi))<=0 and cos(a-((22-1)*2)/64*pi))<=1 and cos(a-((22-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*22)*pi/64)
+
+Flap 23: (pi-(23*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(23*2)*pi/64)) if(cos(a-((23-1)*2)/64*pi)>=0 and sin(a-((23-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((23-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((23-1)*2)/64*pi))<=0 and cos(a-((23-1)*2)/64*pi))<=1 and cos(a-((23-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*23)*pi/64)
+
+Flap 24: (pi-(24*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(24*2)*pi/64)) if(cos(a-((24-1)*2)/64*pi)>=0 and sin(a-((24-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((24-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((24-1)*2)/64*pi))<=0 and cos(a-((24-1)*2)/64*pi))<=1 and cos(a-((24-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*24)*pi/64)
+
+Flap 25: (pi-(25*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(25*2)*pi/64)) if(cos(a-((25-1)*2)/64*pi)>=0 and sin(a-((25-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((25-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((25-1)*2)/64*pi))<=0 and cos(a-((25-1)*2)/64*pi))<=1 and cos(a-((25-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*25)*pi/64)
+
+Flap 26: (pi-(26*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(26*2)*pi/64)) if(cos(a-((26-1)*2)/64*pi)>=0 and sin(a-((26-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((26-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((26-1)*2)/64*pi))<=0 and cos(a-((26-1)*2)/64*pi))<=1 and cos(a-((26-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*26)*pi/64)
+
+Flap 27: (pi-(27*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(27*2)*pi/64)) if(cos(a-((27-1)*2)/64*pi)>=0 and sin(a-((27-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((27-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((27-1)*2)/64*pi))<=0 and cos(a-((27-1)*2)/64*pi))<=1 and cos(a-((27-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*27)*pi/64)
+
+Flap 28: (pi-(28*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(28*2)*pi/64)) if(cos(a-((28-1)*2)/64*pi)>=0 and sin(a-((28-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((28-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((28-1)*2)/64*pi))<=0 and cos(a-((28-1)*2)/64*pi))<=1 and cos(a-((28-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*28)*pi/64)
+
+Flap 29: (pi-(29*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(29*2)*pi/64)) if(cos(a-((29-1)*2)/64*pi)>=0 and sin(a-((29-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((29-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((29-1)*2)/64*pi))<=0 and cos(a-((29-1)*2)/64*pi))<=1 and cos(a-((29-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*29)*pi/64)
+
+Flap 30: (pi-(30*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(30*2)*pi/64)) if(cos(a-((30-1)*2)/64*pi)>=0 and sin(a-((30-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((30-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((30-1)*2)/64*pi))<=0 and cos(a-((30-1)*2)/64*pi))<=1 and cos(a-((30-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*30)*pi/64)
+
+Flap 31: (pi-(31*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(31*2)*pi/64)) if(cos(a-((31-1)*2)/64*pi)>=0 and sin(a-((31-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((31-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((31-1)*2)/64*pi))<=0 and cos(a-((31-1)*2)/64*pi))<=1 and cos(a-((31-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*31)*pi/64)
+
+Flap 32: (pi-(32*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(32*2)*pi/64)) if(cos(a-((32-1)*2)/64*pi)>=0 and sin(a-((32-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((32-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((32-1)*2)/64*pi))<=0 and cos(a-((32-1)*2)/64*pi))<=1 and cos(a-((32-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*32)*pi/64)
+
+Flap 33: (pi-(33*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(33*2)*pi/64)) if(cos(a-((33-1)*2)/64*pi)>=0 and sin(a-((33-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((33-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((33-1)*2)/64*pi))<=0 and cos(a-((33-1)*2)/64*pi))<=1 and cos(a-((33-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*33)*pi/64)
+
+Flap 34: (pi-(34*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(34*2)*pi/64)) if(cos(a-((34-1)*2)/64*pi)>=0 and sin(a-((34-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((34-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((34-1)*2)/64*pi))<=0 and cos(a-((34-1)*2)/64*pi))<=1 and cos(a-((34-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*34)*pi/64)
+
+Flap 35: (pi-(35*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(35*2)*pi/64)) if(cos(a-((35-1)*2)/64*pi)>=0 and sin(a-((35-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((35-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((35-1)*2)/64*pi))<=0 and cos(a-((35-1)*2)/64*pi))<=1 and cos(a-((35-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*35)*pi/64)
+
+Flap 36: (pi-(36*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(36*2)*pi/64)) if(cos(a-((36-1)*2)/64*pi)>=0 and sin(a-((36-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((36-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((36-1)*2)/64*pi))<=0 and cos(a-((36-1)*2)/64*pi))<=1 and cos(a-((36-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*36)*pi/64)
+
+Flap 37: (pi-(37*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(37*2)*pi/64)) if(cos(a-((37-1)*2)/64*pi)>=0 and sin(a-((37-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((37-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((37-1)*2)/64*pi))<=0 and cos(a-((37-1)*2)/64*pi))<=1 and cos(a-((37-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*37)*pi/64)
+
+Flap 38: (pi-(38*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(38*2)*pi/64)) if(cos(a-((38-1)*2)/64*pi)>=0 and sin(a-((38-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((38-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((38-1)*2)/64*pi))<=0 and cos(a-((38-1)*2)/64*pi))<=1 and cos(a-((38-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*38)*pi/64)
+
+Flap 39: (pi-(39*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(39*2)*pi/64)) if(cos(a-((39-1)*2)/64*pi)>=0 and sin(a-((39-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((39-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((39-1)*2)/64*pi))<=0 and cos(a-((39-1)*2)/64*pi))<=1 and cos(a-((39-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*39)*pi/64)
+
+Flap 40: (pi-(40*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(40*2)*pi/64)) if(cos(a-((40-1)*2)/64*pi)>=0 and sin(a-((40-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((40-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((40-1)*2)/64*pi))<=0 and cos(a-((40-1)*2)/64*pi))<=1 and cos(a-((40-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*40)*pi/64)
+
+Flap 41: (pi-(41*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(41*2)*pi/64)) if(cos(a-((41-1)*2)/64*pi)>=0 and sin(a-((41-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((41-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((41-1)*2)/64*pi))<=0 and cos(a-((41-1)*2)/64*pi))<=1 and cos(a-((41-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*41)*pi/64)
+
+Flap 42: (pi-(42*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(42*2)*pi/64)) if(cos(a-((42-1)*2)/64*pi)>=0 and sin(a-((42-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((42-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((42-1)*2)/64*pi))<=0 and cos(a-((42-1)*2)/64*pi))<=1 and cos(a-((42-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*42)*pi/64)
+
+Flap 43: (pi-(43*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(43*2)*pi/64)) if(cos(a-((43-1)*2)/64*pi)>=0 and sin(a-((43-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((43-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((43-1)*2)/64*pi))<=0 and cos(a-((43-1)*2)/64*pi))<=1 and cos(a-((43-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*43)*pi/64)
+
+Flap 44: (pi-(44*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(44*2)*pi/64)) if(cos(a-((44-1)*2)/64*pi)>=0 and sin(a-((44-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((44-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((44-1)*2)/64*pi))<=0 and cos(a-((44-1)*2)/64*pi))<=1 and cos(a-((44-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*44)*pi/64)
+
+Flap 45: (pi-(45*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(45*2)*pi/64)) if(cos(a-((45-1)*2)/64*pi)>=0 and sin(a-((45-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((45-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((45-1)*2)/64*pi))<=0 and cos(a-((45-1)*2)/64*pi))<=1 and cos(a-((45-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*45)*pi/64)
+
+Flap 46: (pi-(46*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(46*2)*pi/64)) if(cos(a-((46-1)*2)/64*pi)>=0 and sin(a-((46-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((46-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((46-1)*2)/64*pi))<=0 and cos(a-((46-1)*2)/64*pi))<=1 and cos(a-((46-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*46)*pi/64)
+
+Flap 47: (pi-(47*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(47*2)*pi/64)) if(cos(a-((47-1)*2)/64*pi)>=0 and sin(a-((47-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((47-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((47-1)*2)/64*pi))<=0 and cos(a-((47-1)*2)/64*pi))<=1 and cos(a-((47-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*47)*pi/64)
+
+Flap 48: (pi-(48*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(48*2)*pi/64)) if(cos(a-((48-1)*2)/64*pi)>=0 and sin(a-((48-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((48-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((48-1)*2)/64*pi))<=0 and cos(a-((48-1)*2)/64*pi))<=1 and cos(a-((48-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*48)*pi/64)
+
+Flap 49: (pi-(49*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(49*2)*pi/64)) if(cos(a-((49-1)*2)/64*pi)>=0 and sin(a-((49-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((49-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((49-1)*2)/64*pi))<=0 and cos(a-((49-1)*2)/64*pi))<=1 and cos(a-((49-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*49)*pi/64)
+
+Flap 50: (pi-(50*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(50*2)*pi/64)) if(cos(a-((50-1)*2)/64*pi)>=0 and sin(a-((50-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((50-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((50-1)*2)/64*pi))<=0 and cos(a-((50-1)*2)/64*pi))<=1 and cos(a-((50-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*50)*pi/64)
+
+Flap 51: (pi-(51*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(51*2)*pi/64)) if(cos(a-((51-1)*2)/64*pi)>=0 and sin(a-((51-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((51-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((51-1)*2)/64*pi))<=0 and cos(a-((51-1)*2)/64*pi))<=1 and cos(a-((51-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*51)*pi/64)
+
+Flap 52: (pi-(52*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(52*2)*pi/64)) if(cos(a-((52-1)*2)/64*pi)>=0 and sin(a-((52-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((52-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((52-1)*2)/64*pi))<=0 and cos(a-((52-1)*2)/64*pi))<=1 and cos(a-((52-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*52)*pi/64)
+
+Flap 53: (pi-(53*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(53*2)*pi/64)) if(cos(a-((53-1)*2)/64*pi)>=0 and sin(a-((53-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((53-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((53-1)*2)/64*pi))<=0 and cos(a-((53-1)*2)/64*pi))<=1 and cos(a-((53-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*53)*pi/64)
+
+Flap 54: (pi-(54*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(54*2)*pi/64)) if(cos(a-((54-1)*2)/64*pi)>=0 and sin(a-((54-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((54-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((54-1)*2)/64*pi))<=0 and cos(a-((54-1)*2)/64*pi))<=1 and cos(a-((54-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*54)*pi/64)
+
+Flap 55: (pi-(55*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(55*2)*pi/64)) if(cos(a-((55-1)*2)/64*pi)>=0 and sin(a-((55-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((55-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((55-1)*2)/64*pi))<=0 and cos(a-((55-1)*2)/64*pi))<=1 and cos(a-((55-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*55)*pi/64)
+
+Flap 56: (pi-(56*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(56*2)*pi/64)) if(cos(a-((56-1)*2)/64*pi)>=0 and sin(a-((56-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((56-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((56-1)*2)/64*pi))<=0 and cos(a-((56-1)*2)/64*pi))<=1 and cos(a-((56-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*56)*pi/64)
+
+Flap 57: (pi-(57*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(57*2)*pi/64)) if(cos(a-((57-1)*2)/64*pi)>=0 and sin(a-((57-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((57-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((57-1)*2)/64*pi))<=0 and cos(a-((57-1)*2)/64*pi))<=1 and cos(a-((57-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*57)*pi/64)
+
+Flap 58: (pi-(58*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(58*2)*pi/64)) if(cos(a-((58-1)*2)/64*pi)>=0 and sin(a-((58-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((58-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((58-1)*2)/64*pi))<=0 and cos(a-((58-1)*2)/64*pi))<=1 and cos(a-((58-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*58)*pi/64)
+
+Flap 59: (pi-(59*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(59*2)*pi/64)) if(cos(a-((59-1)*2)/64*pi)>=0 and sin(a-((59-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((59-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((59-1)*2)/64*pi))<=0 and cos(a-((59-1)*2)/64*pi))<=1 and cos(a-((59-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*59)*pi/64)
+
+Flap 60: (pi-(60*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(60*2)*pi/64)) if(cos(a-((60-1)*2)/64*pi)>=0 and sin(a-((60-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((60-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((60-1)*2)/64*pi))<=0 and cos(a-((60-1)*2)/64*pi))<=1 and cos(a-((60-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*60)*pi/64)
+
+Flap 61: (pi-(61*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(61*2)*pi/64)) if(cos(a-((61-1)*2)/64*pi)>=0 and sin(a-((61-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((61-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((61-1)*2)/64*pi))<=0 and cos(a-((61-1)*2)/64*pi))<=1 and cos(a-((61-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*61)*pi/64)
+
+Flap 62: (pi-(62*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(62*2)*pi/64)) if(cos(a-((62-1)*2)/64*pi)>=0 and sin(a-((62-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((62-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((62-1)*2)/64*pi))<=0 and cos(a-((62-1)*2)/64*pi))<=1 and cos(a-((62-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*62)*pi/64)
+
+Flap 63: (pi-(63*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(63*2)*pi/64)) if(cos(a-((63-1)*2)/64*pi)>=0 and sin(a-((63-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((63-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((63-1)*2)/64*pi))<=0 and cos(a-((63-1)*2)/64*pi))<=1 and cos(a-((63-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*63)*pi/64)
+
+Flap 64: (pi-(64*2)*pi/64+((64-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(64*2)*pi/64)) if(cos(a-((64-1)*2)/64*pi)>=0 and sin(a-((64-1)*2)/64*pi)<sin(-2*pi+2*pi/64)and sin(a-((64-1)*2)/64*pi)>sin(-2*pi))else(-a if(sin(a-((64-1)*2)/64*pi))<=0 and cos(a-((64-1)*2)/64*pi))<=1 and cos(a-((64-1)*2)/64*pi))>=cos(-pi+2*pi/64))else pi-(2*64)*pi/64)
