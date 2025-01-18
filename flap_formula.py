@@ -11,7 +11,7 @@ def generate_flap_formula(position, total_flaps):
     part1 = f"pi-({position}*2)*pi/{total_flaps}+(({total_flaps}-2)/2)*(2*atan(tan(a/2-pi/2))+pi-({position}*2)*pi/{total_flaps}))"
     part2 = f"cos(a-(({position}-1)*2)/{total_flaps}*pi)>=0 and sin(a-(({position}-1)*2)/{total_flaps}*pi)<sin(-2*pi+2*pi/{total_flaps})and sin(a-(({position}-1)*2)/{total_flaps}*pi)>sin(-2*pi)"
     part3 = "-a"
-    part4 = f"sin(a-(({position}-1)*2)/{total_flaps}*pi))<=0 and cos(a-(({position}-1)*2)/{total_flaps}*pi))<=1 and cos(a-(({position}-1)*2)/{total_flaps}*pi))>=cos(-pi+2*pi/{total_flaps})"
+    part4 = f"sin(a-(({position}-1)*2)/{total_flaps}*pi)<=0 and cos(a-(({position}-1)*2)/{total_flaps}*pi)<=1 and cos(a-(({position}-1)*2)/{total_flaps}*pi)>=cos(-pi+2*pi/{total_flaps})"
     part5 = f"pi-(2*{position})*pi/{total_flaps}"
 
     # Combine into final formula

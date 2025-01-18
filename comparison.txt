@@ -1,6 +1,6 @@
 script:
 
-(pi-(40*2)*pi/40+((40-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(40*2)*pi/40)) if(cos(a-((40-1)*2)/40*pi)>=0 and sin(a-((40-1)*2)/40*pi)<sin(-2*pi+2*pi/40)and sin(a-((40-1)*2)/40*pi)>sin(-2*pi))else(-a if(sin(a-((40-1)*2)/40*pi))<=0 and cos(a-((40-1)*2)/40*pi))<=1 and cos(a-((40-1)*2)/40*pi))>=cos(-pi+2*pi/40))else pi-(2*40)*pi/40)
+(pi-(40*2)*pi/40+((40-2)/2)*(2*atan(tan(a/2-pi/2))+pi-(40*2)*pi/40)) if(cos(a-((40-1)*2)/40*pi)>=0 and sin(a-((40-1)*2)/40*pi)<sin(-2*pi+2*pi/40)and sin(a-((40-1)*2)/40*pi)>sin(-2*pi))else(-a if(sin(a-((40-1)*2)/40*pi)<=0 and cos(a-((40-1)*2)/40*pi)<=1 and cos(a-((40-1)*2)/40*pi)>=cos(-pi+2*pi/40))else pi-(2*40)*pi/40)
 
 website:
 
