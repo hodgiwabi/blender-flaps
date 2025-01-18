@@ -12,12 +12,13 @@ def generate_flap_formula(position, total_flaps):
     angle = (position-1)*2
     _position = position*2
     _flaps = (total_flaps-2)/2
+    _angle = round(angle/total_flaps*pi, 5)
 
     # The main formula components
     part1 = f"pi-{_position}*pi/{total_flaps}+{_flaps}*(2*atan(tan(a/2-pi/2))+pi-{_position}*pi/{total_flaps}))"
-    part2 = f"cos(a-{angle}/{total_flaps}*pi)>=0 and sin(a-{angle}/{total_flaps}*pi)<sin(-2*pi+2*pi/{total_flaps})and sin(a-{angle}/{total_flaps}*pi)>sin(-2*pi)"
+    part2 = f"cos(a-{_angle})>=0 and sin(a-{_angle})<sin(-2*pi+2*pi/{total_flaps})and sin(a-{_angle})>sin(-2*pi)"
     part3 = "-a"
-    part4 = f"sin(a-{angle}/{total_flaps}*pi)<=0 and cos(a-{angle}/{total_flaps}*pi)<=1 and cos(a-{angle}/{total_flaps}*pi)>=cos(-pi+2*pi/{total_flaps})"
+    part4 = f"sin(a-{_angle})<=0 and cos(a-{_angle})<=1 and cos(a-{_angle})>=cos(-pi+2*pi/{total_flaps})"
     part5 = f"pi-{_position}*pi/{total_flaps}"
 
     # Combine into final formula
